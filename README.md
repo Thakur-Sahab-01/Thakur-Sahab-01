@@ -14,27 +14,27 @@ Exploring Cloud Computing and DevOps concept
 Strengthening Data Structures & Algorithms fundamentals
 
                                                            🌱 Currently Learning
-Full Stack Development                                                                                    Backend Engineering
-
-AWS Cloud Technologies                                                                                    System Design Fundamentals
-
+Full Stack Development                                                                                    
+Backend Engineering
+AWS Cloud Technologies                                                                                    
+System Design Fundamentals
 DevOps & CI/CD Concepts
 
-🤝 Looking to Collaborate On
+                                                          🤝 Looking to Collaborate On
 
-Open Source Projects                                                                                      Python Applications
-
-Web Development Projects                                                                                  Cloud-Based Solutions
-
+Open Source Projects                                                                                      
+Python Applications
+Web Development Projects                                                                                 
+Cloud-Based Solutions
 Beginner-Friendly Software Projects
 
-💬 Ask Me About
-Python                HTML, CSS & JavaScript
-
-Git & GitHub          MySQL & Databases
-
-Linux Fundamentals    AWS Cloud Fundamentals
-
+                                                                💬 Ask Me About
+Python                
+HTML, CSS & JavaScript
+Git & GitHub        
+MySQL & Databases
+Linux Fundamentals   
+AWS Cloud Fundamentals
 Software Engineering Concepts
 
 🏆 Certifications
