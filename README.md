@@ -1,21 +1,95 @@
-# 💫 About Me:
-👋 Hi, I'm Vaibhav Singh<br><br>Aspiring Python Full Stack Developer and BCA student passionate about software development, backend engineering, cloud technologies, and modern web applications. I enjoy learning new technologies, solving problems, and building scalable solutions.<br><br>🔭 I’m currently working on improving my Python, Full Stack Development, and Backend Engineering skills.<br><br>🤝 I’m looking to collaborate on Python, Web Development, Open Source, and Full Stack projects.<br><br>💡 I’m looking to help with beginner-friendly Python projects, web applications, and GitHub collaborations.<br><br>🌱 I’m currently learning Backend Development, REST APIs, FastAPI, Cloud Computing, DevOps Fundamentals, and System Design.<br><br>💬 Ask me about Python, HTML, CSS, JavaScript, Git, GitHub, MySQL, Linux, and Software Engineering fundamentals.<br><br>⚡ Fun fact: I started learning Python and MySQL during my school days and have been continuously expanding my skills in software development ever since.<br><br>📫 Reach me at: [vaibhavthakur00012@gmail.com](mailto:vaibhavthakur00012@gmail.com)<br><br>🔗 LinkedIn: linkedin.com/in/vaibhav-thakur7<br><br>💻 GitHub: github.com/Thakur-Sahab-01<br>
+# 💫 About Me
 
+Hi 👋, I'm **Vaibhav Singh** — a BCA student and an **Aspiring Python Full Stack Developer** passionate about Backend Engineering, Cloud Computing, and Software Development.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-thakur7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavthakur00012@gmail.com) 
+I have a strong foundation in **Python, JavaScript, SQL, Web Development, Database Management Systems, and Software Engineering fundamentals**. I enjoy exploring modern technologies, scalable applications, REST APIs, cloud platforms, and backend systems while continuously improving my technical and problem-solving skills.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Thakur-Sahab-01&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Thakur-Sahab-01&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thakur-Sahab-01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I am AWS-trained and actively learning Full Stack Development, Backend Engineering, Cloud Technologies, and modern software development practices. Currently seeking internship opportunities to gain real-world experience and contribute to impactful projects.
+
+## 🔭 Currently Working On
+
+* Improving Python and Backend Development skills
+* Learning REST APIs and FastAPI
+* Exploring Cloud Computing and DevOps concepts
+* Strengthening Data Structures & Algorithms fundamentals
+
+## 🌱 Currently Learning
+
+* Full Stack Development
+* Backend Engineering
+* AWS Cloud Technologies
+* System Design Fundamentals
+* DevOps & CI/CD Concepts
+
+## 🤝 Looking to Collaborate On
+
+* Open Source Projects
+* Python Applications
+* Web Development Projects
+* Cloud-Based Solutions
+* Beginner-Friendly Software Projects
+
+## 💬 Ask Me About
+
+* Python
+* HTML, CSS & JavaScript
+* Git & GitHub
+* MySQL & Databases
+* Linux Fundamentals
+* AWS Cloud Fundamentals
+* Software Engineering Concepts
+
+## 🏆 Certifications
+
+* AWS Cloud Practitioner Essentials
+* Cloud Financial Management: FinOps for GenAI
+* Domain 3 Review: AWS Certified Machine Learning Engineer Associate (MLA-C01)
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vaibhav-thakur7/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vaibhavthakur00012@gmail.com)
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Thakur-Sahab-01\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thakur-Sahab-01\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Sahab-01\&theme=tokyonight\&hide_border=false\&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thakur-Sahab-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Thakur-Sahab-01\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Thakur-Sahab-01\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+## ⚡ Fun Fact
+
+I started learning Python and MySQL during my school days and have been continuously expanding my knowledge in software development, cloud computing, and modern technologies ever since.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Thakur-Sahab-01&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ From [Vaibhav Singh](https://github.com/Thakur-Sahab-01)
