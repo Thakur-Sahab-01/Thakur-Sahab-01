@@ -10,8 +10,7 @@ I am AWS-trained and actively learning Full Stack Development, Backend Engineeri
 
 Improving Python and Backend Development skills                                                            
 
-Learning REST APIs and FastAPI
-
+Learning REST APIs and FastAPI  
 Exploring Cloud Computing and DevOps concept                                                              
 Strengthening Data Structures & Algorithms fundamentals
 
