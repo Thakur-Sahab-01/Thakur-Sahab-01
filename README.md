@@ -37,7 +37,7 @@ Linux Fundamentals
 AWS Cloud Fundamentals
 Software Engineering Concepts
 
-🏆 Certifications
+                                                             🏆 Certifications
 
 AWS Cloud Practitioner Essentials
 
