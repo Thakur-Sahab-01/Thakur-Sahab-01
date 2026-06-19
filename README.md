@@ -59,7 +59,7 @@ Domain 3 Review: AWS Certified Machine Learning Engineer Associate (MLA-C01)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thakur-Sahab-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
