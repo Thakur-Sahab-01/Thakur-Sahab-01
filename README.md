@@ -9,33 +9,60 @@ I am AWS-trained and actively learning Full Stack Development, Backend Engineeri
 🔭 Currently Working On
 
 Improving Python and Backend Development skills
+
 Learning REST APIs and FastAPI
-Exploring Cloud Computing and DevOps concepts
+
+Exploring Cloud Computing and DevOps concept
+
 Strengthening Data Structures & Algorithms fundamentals
+
 🌱 Currently Learning
+
 Full Stack Development
+
 Backend Engineering
+
 AWS Cloud Technologies
+
 System Design Fundamentals
+
 DevOps & CI/CD Concepts
+
 🤝 Looking to Collaborate On
+
 Open Source Projects
+
 Python Applications
+
 Web Development Projects
+
 Cloud-Based Solutions
+
 Beginner-Friendly Software Projects
+
 💬 Ask Me About
 Python
+
 HTML, CSS & JavaScript
+
 Git & GitHub
+
 MySQL & Databases
+
 Linux Fundamentals
+
 AWS Cloud Fundamentals
+
 Software Engineering Concepts
+
 🏆 Certifications
+
 AWS Cloud Practitioner Essentials
+
 Cloud Financial Management: FinOps for GenAI
+
 Domain 3 Review: AWS Certified Machine Learning Engineer Associate (MLA-C01)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-thakur7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavthakur00012@gmail.com) 
