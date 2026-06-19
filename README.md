@@ -6,7 +6,7 @@ I have a strong foundation in Python, JavaScript, SQL, Web Development, Database
 
 I am AWS-trained and actively learning Full Stack Development, Backend Engineering, Cloud Technologies, and modern software development practices. Currently seeking internship opportunities to gain real-world experience and contribute to impactful projects.
 
-🔭 Currently Working On \n
+🔭 Currently Working On
 Improving Python and Backend Development skills
 Learning REST APIs and FastAPI
 Exploring Cloud Computing and DevOps concepts
