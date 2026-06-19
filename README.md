@@ -8,50 +8,31 @@ I am AWS-trained and actively learning Full Stack Development, Backend Engineeri
 
 🔭 Currently Working On
 
-Improving Python and Backend Development skills
+Improving Python and Backend Development skills                                                           Learning REST APIs and FastAPI
 
-Learning REST APIs and FastAPI
+Exploring Cloud Computing and DevOps concept                                                              Strengthening Data Structures & Algorithms fundamentals
 
-Exploring Cloud Computing and DevOps concept
+                                                           🌱 Currently Learning
+Full Stack Development                                                                                    Backend Engineering
 
-Strengthening Data Structures & Algorithms fundamentals
-
-🌱 Currently Learning
-
-Full Stack Development
-
-Backend Engineering
-
-AWS Cloud Technologies
-
-System Design Fundamentals
+AWS Cloud Technologies                                                                                    System Design Fundamentals
 
 DevOps & CI/CD Concepts
 
 🤝 Looking to Collaborate On
 
-Open Source Projects
+Open Source Projects                                                                                      Python Applications
 
-Python Applications
-
-Web Development Projects
-
-Cloud-Based Solutions
+Web Development Projects                                                                                  Cloud-Based Solutions
 
 Beginner-Friendly Software Projects
 
 💬 Ask Me About
-Python
+Python                HTML, CSS & JavaScript
 
-HTML, CSS & JavaScript
+Git & GitHub          MySQL & Databases
 
-Git & GitHub
-
-MySQL & Databases
-
-Linux Fundamentals
-
-AWS Cloud Fundamentals
+Linux Fundamentals    AWS Cloud Fundamentals
 
 Software Engineering Concepts
 
