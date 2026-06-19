@@ -1,6 +1,40 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm **Vaibhav Singh**, a BCA student and an aspiring Python Full Stack Developer with a strong interest in Backend Engineering, Cloud Computing, and Software Development.<br><br>I enjoy learning modern technologies and building my understanding of scalable applications, REST APIs, databases, and cloud platforms. My technical foundation includes Python, JavaScript, SQL, Git, GitHub, Linux, and web development fundamentals. I have also completed AWS training in Cloud Computing, FinOps for GenAI, and Machine Learning concepts.<br><br>Currently, I am focused on strengthening my skills in Full Stack Development, Backend Systems, Cloud Technologies, and Software Engineering while actively seeking internship opportunities to gain real-world industry experience.<br><br>### 🔭 Currently Working On<br><br>* Improving Python and Backend Development skills<br>* Learning REST APIs and FastAPI<br>* Exploring Cloud Computing and DevOps concepts<br><br>### 🌱 Currently Learning<br><br>* Full Stack Development<br>* Backend Engineering<br>* AWS Cloud Technologies<br>* System Design Fundamentals<br><br>### 🤝 Looking to Collaborate On<br><br>* Open Source Projects<br>* Python Applications<br>* Web Development Projects<br>* Cloud-Based Solutions<br><br>### 💬 Ask Me About<br><br>* Python<br>* HTML, CSS, JavaScript<br>* Git & GitHub<br>* MySQL<br>* Linux Basics<br>* AWS Cloud Fundamentals<br><br>### ⚡ Fun Fact<br><br>I started learning Python and MySQL during my school days and have continued expanding my knowledge in software development, cloud computing, and modern technologies ever since.<br>
+💫 About Me
 
+Hi 👋, I'm Vaibhav Singh — a BCA student and an Aspiring Python Full Stack Developer passionate about Backend Engineering, Cloud Computing, and Software Development.
+
+I have a strong foundation in Python, JavaScript, SQL, Web Development, Database Management Systems, and Software Engineering fundamentals. I enjoy exploring modern technologies, scalable applications, REST APIs, cloud platforms, and backend systems while continuously improving my technical and problem-solving skills.
+
+I am AWS-trained and actively learning Full Stack Development, Backend Engineering, Cloud Technologies, and modern software development practices. Currently seeking internship opportunities to gain real-world experience and contribute to impactful projects.
+
+🔭 Currently Working On
+Improving Python and Backend Development skills
+Learning REST APIs and FastAPI
+Exploring Cloud Computing and DevOps concepts
+Strengthening Data Structures & Algorithms fundamentals
+🌱 Currently Learning
+Full Stack Development
+Backend Engineering
+AWS Cloud Technologies
+System Design Fundamentals
+DevOps & CI/CD Concepts
+🤝 Looking to Collaborate On
+Open Source Projects
+Python Applications
+Web Development Projects
+Cloud-Based Solutions
+Beginner-Friendly Software Projects
+💬 Ask Me About
+Python
+HTML, CSS & JavaScript
+Git & GitHub
+MySQL & Databases
+Linux Fundamentals
+AWS Cloud Fundamentals
+Software Engineering Concepts
+🏆 Certifications
+AWS Cloud Practitioner Essentials
+Cloud Financial Management: FinOps for GenAI
+Domain 3 Review: AWS Certified Machine Learning Engineer Associate (MLA-C01)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-thakur7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavthakur00012@gmail.com) 
